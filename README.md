@@ -21,9 +21,9 @@
 ### :icecream:Android基础与进阶学习 ###
 >Android基础学习
 
-|              **:custard:谷歌Android开发者指南**              |           :sushi:Android架构学习           | :cake:Android进阶 | **:beers:Android性能优化**系列 |
-| :----------------------------------------------------------: | :----------------------------------------: | :---------------: | :----------------------------: |
-| [谷歌开发者国内可访问](https://developer.android.google.cn/) | [开发架构指导](src/androidarchitecture.md) |                   |                                |
+|              **:custard:谷歌Android开发者指南**              |           :sushi:Android架构学习           | :cake:Android进阶 |       **:beers:Android性能优化**系列       |
+| :----------------------------------------------------------: | :----------------------------------------: | :---------------: | :----------------------------------------: |
+| [谷歌开发者国内可访问](https://developer.android.google.cn/) | [开发架构指导](src/androidarchitecture.md) |    [待整理]()     | [性能分步优化](src/androidoptimization.md) |
 
 
 
