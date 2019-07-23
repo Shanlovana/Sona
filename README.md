@@ -13,17 +13,17 @@
 
 ### :coffee:Java基础 ###
 
-> Java基础文章：文章大部分内容采集为同一系列，比较系统全面。Java面试题则是一些零散但常见的面试题
+> Java基础文章：文章大部分内容采集为同一系列，比较系统全面。Java面试题则是一些零散但常见的面试题。
 
 | :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO/...等等 | :guitar:设计模式 |:dollar:Java面试题 |
 | :------:| :------: | :------: |:------: |:------: |
 | [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
 ### :icecream:Android基础与进阶学习 ###
->Android基础学习
+>Android基础与进阶学习，会阶段性补充。
 
-|              **:custard:谷歌Android开发者指南**              |           :sushi:Android架构学习           | :cake:Android进阶 |       **:beers:Android性能优化**系列       |
-| :----------------------------------------------------------: | :----------------------------------------: | :---------------: | :----------------------------------------: |
-| [谷歌开发者国内可访问](https://developer.android.google.cn/guide) | [开发架构指导](src/androidarchitecture.md) |    [待整理]()     | [性能分步优化](src/androidoptimization.md) |
+|      **:custard:Android基础学习**      |           :sushi:Android架构学习           |         :cake:Android进阶          |       **:beers:Android性能优化**系列       |
+| :------------------------------------: | :----------------------------------------: | :--------------------------------: | :----------------------------------------: |
+| [Android基础学习](src/androidbasic.md) | [开发架构指导](src/androidarchitecture.md) | [Android进阶](src/androidskill.md) | [性能分步优化](src/androidoptimization.md) |
 
 
 
