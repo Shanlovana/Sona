@@ -18,8 +18,17 @@
 | :book:Java集合 | :memo:Java多线程 | :ski:JVM/NIO/...等等 | :guitar:设计模式 |:dollar:Java面试题 |
 | :------:| :------: | :------: |:------: |:------: |
 | [Java集合](src/collection.md) | [Java多线程](src/thread.md) | [Java基础](src/javabasic.md) |[设计模式](src/designmode.md) |[Java面试题](src/interview.md) |
+### :icecream:Android基础学习 ###
+>Android基础学习
+
+|                  **谷歌Android开发者指南**                   |              Android架构学习               | Android进阶 | **Android性能优化**系列 |
+| :----------------------------------------------------------: | :----------------------------------------: | :---------: | :---------------------: |
+| [谷歌开发者国内可访问](https://developer.android.google.cn/) | [开发架构指导](src/androidarchitecture.md) |             |                         |
+
+
 
 ### :lollipop:Android常用库收集 ###
+
 >Android经典与常用库合集，意在指导开发，节省寻找方案或者控件时间，加快开发效率。
 
 | :candy:AndroidLibs合集 |
