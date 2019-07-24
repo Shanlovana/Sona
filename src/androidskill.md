@@ -6,3 +6,5 @@
 
 [Android快速发布项目到jcenter](https://www.jianshu.com/p/a669d6d27917)
 
+[Android studio下使用ndk-stack定位crash](https://blog.csdn.net/a568478312/article/details/78182422)
+
