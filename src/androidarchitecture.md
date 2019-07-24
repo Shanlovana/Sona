@@ -12,3 +12,7 @@
 
 
 
+[**MvRxMvvm** ](https://github.com/Yinzeyu/MvRxMvvm)
+
+> MvRx+Retrofit2(okhttp3)+rxjava2+kodein+objectBox+Glide+rxlifecycle整合了大量主流开源项目
+
