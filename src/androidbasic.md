@@ -1,6 +1,12 @@
-### :house:Android基础学习 ###
+![](/images/fourcomment.png)
 
-|                :cookie:谷歌Android开发者文档                 |
-| :----------------------------------------------------------: |
-| [谷歌Android开发者指南](https://developer.android.google.cn/guide) |
+
+
+ [Activity使用场景解读](https://www.jianshu.com/p/5d614bb67936)
+
+[Service使用场景解读](https://www.jianshu.com/p/4626bf809c0f)
+
+[Broadcast使用场景解读](https://www.jianshu.com/p/5a983578418e)
+
+[ContentProvider使用场景解读](https://www.jianshu.com/p/cdef889736ec)
 
