@@ -1,4 +1,4 @@
-![](/images/fourcomment.png)
+![](/src/images/fourcomment.png)
 
 
 
