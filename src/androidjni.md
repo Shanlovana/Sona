@@ -1,4 +1,8 @@
-[Android NDK开发：JNI基础篇](https://www.jianshu.com/p/ac00d59993aa)[JNI开发系列①JNI概念及开发流程 - 简书](https://www.jianshu.com/p/68bca86a84ce)
+### :sailboat:JNI学习系列 ###
+
+[Android NDK开发：JNI基础篇](https://www.jianshu.com/p/ac00d59993aa)
+
+[JNI开发系列①JNI概念及开发流程 - 简书](https://www.jianshu.com/p/68bca86a84ce)
 
  [JNI 数据类型映射、域描述符说明 - qinjuning  - CSDN博客](https://link.jianshu.com?t=http%3A%2F%2Fblog.csdn.net%2Fqinjuning%2Farticle%2Fdetails%2F7599796)
 
