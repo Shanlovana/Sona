@@ -21,9 +21,9 @@
 ### :icecream:Android基础与进阶学习 ###
 >Android基础与进阶学习，会阶段性补充。
 
-|        **:custard:Android基础学习**         |           :sushi:Android架构学习           |         :cake:Android进阶          |       **:beers:Android性能优化**系列       |
-| :-----------------------------------------: | :----------------------------------------: | :--------------------------------: | :----------------------------------------: |
-| [Android基础学习](src/androidbasicguide.md) | [开发架构指导](src/androidarchitecture.md) | [Android进阶](src/androidskill.md) | [性能分步优化](src/androidoptimization.md) |
+|            **:custard:基础学习**            |             :cake:进阶             |              :sushi:架构学习               |        :apple:JNI学习​        |          **:beers:性能优化**系列           |
+| :-----------------------------------------: | :--------------------------------: | :----------------------------------------: | :--------------------------: | :----------------------------------------: |
+| [Android基础学习](src/androidbasicguide.md) | [Android进阶](src/androidskill.md) | [开发架构指导](src/androidarchitecture.md) | [JNI学习](src/androidjni.md) | [性能分步优化](src/androidoptimization.md) |
 
 
 
@@ -35,7 +35,7 @@
 | :------: |
 | [AndroidLibs合集](src/androidlibs.md) |
 
-### :lollipop:音视频学习收集
+### :microphone:音视频学习收集
 
 > 音视频学习。
 
