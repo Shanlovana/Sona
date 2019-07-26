@@ -16,3 +16,7 @@
 
 > MvRx+Retrofit2(okhttp3)+rxjava2+kodein+objectBox+Glide+rxlifecycle整合了大量主流开源项目
 
+
+[**组件化综合案例** ](https://github.com/yangchong211/LifeHelper)
+
+> 架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。
