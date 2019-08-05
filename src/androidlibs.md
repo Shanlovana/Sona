@@ -30,7 +30,17 @@
 **[SmarterStreaming](https://github.com/daniulive/SmarterStreaming)**|跨平台的视频采集、直播SDK SmarterStreaming
 **[anyRTC-RTMP-OpenSource](https://github.com/anyRTC/anyRTC-RTMP-OpenSource)**|RTMP协议的推流拉流客户端
 **[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache)**|视频缓存方案
-**[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)**|这里是Android上最好的开源弹幕引擎·烈焰弹幕使。
+**[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)**|这里是Android上最好的开源弹幕引擎·烈焰弹幕使
+# 扫码工具
+
+|                          名称                           |                      描述                      |
+| :-----------------------------------------------------: | :--------------------------------------------: |
+|       **[zxing](https://github.com/zxing/zxing)**       |    开源Java类库用于解析多种格式的1D/2D条形     |
+|        **[ZBar](https://github.com/ZBar/ZBar)**         | ZBar是一个开源库，用于扫描、读取二维码和条形码 |
+| **[ZXingLite](https://github.com/jenly1314/ZXingLite)** |         几行代码快速集成二维码扫描功能         |
+|    **[CZXing](https://github.com/devilsen/CZXing)**     |         C++ port of ZXing for Android          |
+
+
 
 # 组件化建构
 名称|描述
