@@ -1,3 +1,17 @@
+# 网络请求
+名称|描述
+:-:|:-:
+**[retrofit](https://github.com/square/retrofit)**|OkHttp的加强版
+**[okhttp](https://github.com/square/okhttp)**|HTTP是现代应用常用的一种交换数据和媒体的网络方式
+**[okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)**|封装了 OkHttp 的网络请求框架
+**[NoHttp](https://github.com/yanzhenjie/NoHttp)**|Http标准协议框架，支持多种缓存模式，底层可动态切换OkHttp、URLConnection
+**[Kalle](https://github.com/yanzhenjie/Kalle)**|Nohttp升级加强版
+**[Novate](https://github.com/Tamicer/Novate)**|链式调用网络请求
+**[fuel](https://github.com/kittinunf/fuel)**|kotlin版本网络请求
+**[RxNetty](https://github.com/ReactiveX/RxNetty)**|RxNetty
+**[RxWebSocket](https://github.com/dhhAndroid/RxWebSocket)**|基于okhttp和RxJava封装的WebSocket
+**[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**|Fast-Android-Networking
+
 # 依赖注入
 名称|描述
 :-:|:-:
@@ -40,29 +54,14 @@
 | **[ZXingLite](https://github.com/jenly1314/ZXingLite)** |         几行代码快速集成二维码扫描功能         |
 |    **[CZXing](https://github.com/devilsen/CZXing)**     |         C++ port of ZXing for Android          |
 
+# Android WebView
 
+|                             名称                             |                         描述                          |
+| :----------------------------------------------------------: | :---------------------------------------------------: |
+| [**腾讯浏览服务，依托X5内核，非开源**](https://x5.tencent.com/tbs/index.html) |         提供优化移动端浏览体验的整套解决方案          |
+|     [**AgentWeb**](https://github.com/Justson/AgentWeb)      | 基于的 Android WebView ，极度容易使用以及功能强大的库 |
+|      [**JsBridge**](https://github.com/lzyzsd/JsBridge)      |        一个中间组件来实现js与本地的代码的交互         |
 
-# 组件化建构
-名称|描述
-:-:|:-:
-**[CC](https://github.com/luckybilly/CC)**|CC 框架是一个面向协议的组件化框架
-**[DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)**|一套完整有效的android组件化方案  
-**[JIMU](https://github.com/mqzhangw/JIMU)**|一种简单有效的android组件化方案
-**[ArmsComponent](https://github.com/JessYanCoding/ArmsComponent)**|MVPArms 官方快速组件化方案
-**[ARouter](https://github.com/alibaba/ARouter)**|组件化路由框架
-# 网络请求
-名称|描述
-:-:|:-:
-**[retrofit](https://github.com/square/retrofit)**|OkHttp的加强版
-**[okhttp](https://github.com/square/okhttp)**|HTTP是现代应用常用的一种交换数据和媒体的网络方式
-**[okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo)**|封装了 OkHttp 的网络请求框架
-**[NoHttp](https://github.com/yanzhenjie/NoHttp)**|Http标准协议框架，支持多种缓存模式，底层可动态切换OkHttp、URLConnection
-**[Kalle](https://github.com/yanzhenjie/Kalle)**|Nohttp升级加强版
-**[Novate](https://github.com/Tamicer/Novate)**|链式调用网络请求
-**[fuel](https://github.com/kittinunf/fuel)**|kotlin版本网络请求
-**[RxNetty](https://github.com/ReactiveX/RxNetty)**|RxNetty
-**[RxWebSocket](https://github.com/dhhAndroid/RxWebSocket)**|基于okhttp和RxJava封装的WebSocket
-**[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)**|Fast-Android-Networking
 
 # 权限库
 名称|描述
@@ -74,6 +73,16 @@
 名称|描述
 :-:|:-:
 **[BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)**|Shape替代方案
+
+# 组件化建构
+名称|描述
+:-:|:-:
+**[CC](https://github.com/luckybilly/CC)**|CC 框架是一个面向协议的组件化框架
+**[DDComponentForAndroid](https://github.com/luojilab/DDComponentForAndroid)**|一套完整有效的android组件化方案  
+**[JIMU](https://github.com/mqzhangw/JIMU)**|一种简单有效的android组件化方案
+**[ArmsComponent](https://github.com/JessYanCoding/ArmsComponent)**|MVPArms 官方快速组件化方案
+**[ARouter](https://github.com/alibaba/ARouter)**|组件化路由框架
+
 # UI适配方案
 名称|描述
 :-:|:-:
@@ -117,7 +126,8 @@
 **[PageRecyclerView](https://github.com/ckrgithub/PageRecyclerView)**|RecyclerView实现无限轮播效果
 **[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**|无限轮播 
 **[banner](https://github.com/youth5201314/banner)**|图片轮播控件
-**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的。
+**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的
+[**Android_open_project**](https://github.com/linmomo/Android_open_project)|搜集平常工作中开源控件库
 
 
 # 热更新
@@ -131,6 +141,7 @@
 名称|描述
 :-:|:-:
 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)**|安卓工具库
+**[Lazy](https://github.com/l123456789jy/Lazy)**|常用的工具类
 **[RxTool](https://github.com/vondear/RxTool)**|工具类集合
 **[StatusBarUtil](https://github.com/laobie/StatusBarUtil)**  |沉浸式状态栏工具类
 **[ImmersionBar](https://github.com/gyf-dev/ImmersionBar)**|沉浸式状态栏和沉浸式导航栏管理
