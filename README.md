@@ -47,5 +47,5 @@
 
 |         地址          |      提取码      |
 | :-------------------: | :--------------: |
-| [提取地址](v.lsuu.cn) | YZVR7WDLV8HHERJK |
+| [v.lsuu.cn](v.lsuu.cn) | YZVR7WDLV8HHERJK |
 
