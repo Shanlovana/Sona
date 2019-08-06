@@ -14,9 +14,9 @@
 
 >Android经典与常用库合集，意在指导开发，节省寻找方案或者控件时间，加快开发效率。
 
-| :candy:AndroidLibs合集 |
+| :candy:Android框架合集 |
 | :------: |
-| [AndroidLibs合集](src/androidlibs.md) |
+| [Android框架合集](src/androidlibs.md) |
 
 ### :icecream:Android基础与进阶学习 ###
 >Android基础与进阶学习，会阶段性补充。
