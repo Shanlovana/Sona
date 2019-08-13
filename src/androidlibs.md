@@ -99,7 +99,7 @@
 **[Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set)**|Android 所有动画系列详尽教程。 Explain all animations in Android.[Android 一共有多少种动画？准确告诉你！](https://www.jianshu.com/p/0eb89d43eea4)
 **[Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)**|Android应用开发之所有动画使用详解。
 
-# ui
+# UI组件
 名称|描述
 :-:|:-:
 **[FloatingView](https://github.com/UFreedom/FloatingView)**|点赞效果参考
@@ -108,7 +108,7 @@
 **[Highlight](https://github.com/hongyangAndroid/Highlight)**|高亮新手引导用法参考
 **[QMUI_Android](https://github.com/Tencent/QMUI_Android)**|腾讯推出的安卓UI库
 **[RoundedImageView](https://github.com/vinc3m1/RoundedImageView)**|图片圆角控件
-**[XUI](https://github.com/xuexiangjys/XUI)**|一个简洁而优雅的Android原生UI框架，解放你的双手！图片圆角控件
+**[XUI](https://github.com/xuexiangjys/XUI)**|一个简洁而优雅的Android原生UI框架！图片圆角控件
 **[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)**|ui库，非常多的ui及特效。
 **[XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)**|带下拉刷新和上拉加载的
 **[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**|几十种炫酷的下拉刷新
@@ -128,6 +128,8 @@
 **[banner](https://github.com/youth5201314/banner)**|图片轮播控件
 **[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的
 [**Android_open_project**](https://github.com/linmomo/Android_open_project)|搜集平常工作中开源控件库
+[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)|史上最全分类 Android 开源大全
+[**CainCamera**](https://github.com/CainKernel/CainCamera)|集美颜相机、图片编辑、短视频编辑等功能的综合性开源APP
 
 
 # 热更新
