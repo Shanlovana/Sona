@@ -98,6 +98,10 @@
 **[Material-Animations](https://github.com/lgvalle/Material-Animations)**|Android 动画交互
 **[Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set)**|Android 所有动画系列详尽教程。 Explain all animations in Android.[Android 一共有多少种动画？准确告诉你！](https://www.jianshu.com/p/0eb89d43eea4)
 **[Android应用开发之所有动画使用详解](http://blog.csdn.net/yanbober/article/details/46481171)**|Android应用开发之所有动画使用详解。
+**[SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android)**|使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画
+**[AndroidCustomView](https://github.com/lygttpod/AndroidCustomView)**|带你走进自定义View的美妙世界
+**[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)**|Nice loading animations for Android
+**[Android-SpinKit](https://github.com/ybq/Android-SpinKit)**|Android loading animations
 
 # UI组件
 名称|描述
@@ -126,11 +130,17 @@
 **[PageRecyclerView](https://github.com/ckrgithub/PageRecyclerView)**|RecyclerView实现无限轮播效果
 **[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**|无限轮播 
 **[banner](https://github.com/youth5201314/banner)**|图片轮播控件
-**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的
+**[SlimAdapter](https://github.com/MEiDIK/SlimAdapter)**|A slim & clean & typeable Adapter without VIEWHOLDER
+**[greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android)**|Full aspect ratio grid LayoutManager for Android's RecyclerView
+**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的。
+**[EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout)**|Android之自定义View：侧滑删除
+**[SwipeMenuRecyclerView](https://github.com/AItsuki/SwipeMenuRecyclerView)**|SwipeMenuRecyclerView
+**[ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)**|Memory efficient shimmering effect for Android applications by Supercharge
+**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果
+**[StickyDecoration](https://github.com/Gavin-ZYX/StickyDecoration)**|利用RecyclerView.ItemDecoration实现顶部悬浮效果
 [**Android_open_project**](https://github.com/linmomo/Android_open_project)|搜集平常工作中开源控件库
 [**AndroidLibs**](https://github.com/XXApple/AndroidLibs)|史上最全分类 Android 开源大全
 [**CainCamera**](https://github.com/CainKernel/CainCamera)|集美颜相机、图片编辑、短视频编辑等功能的综合性开源APP
-
 
 # 热更新
 名称|描述
@@ -171,7 +181,10 @@
 **[picasso](https://github.com/square/picasso)**|picasso
 **[ImageLoader](https://github.com/novoda/image-loader)**|image-loader
 **[Volley](https://github.com/mcxiaoke/android-volley)**|volley
-**[Luban](https://github.com/Curzibn/Luban)**|Luban（鲁班 —— Android图片压缩工具，仿微信朋友圈压缩策略。
+**[ImageLoaderFramework](https://github.com/ladingwu/ImageLoaderFramework)**|打造统一的图片加载框架，融合Glide（4.x），Fresco,不侵入业务代码，一套API兼容两种加载库
+**[GlideImageView](https://github.com/sunfusheng/GlideImageView)**|基于Glide V4.0封装的图片加载库，可以监听加载图片时的进度
+**[sand](https://github.com/Jomes/sand)**|使用JNI实现Sobel算子图像边缘检测
+
 # 图表控件
 名称|描述
 :-:|:-:
@@ -206,6 +219,8 @@
 名称|描述
 :-:|:-:
 **[sketch](https://github.com/panpf/sketch)**|大图查看，图片列表查看
+**[Matisse](https://github.com/zhihu/Matisse)**|一个能带进度条的图片框架，同时有身份标识动能，简单易用
+**[Rajawali](https://github.com/Rajawali/Rajawali)**|Android OpenGL ES 2.0/3.0 Engine
 **[Diooto](https://github.com/moyokoo/Diooto)**|仿微信大图查看(拖拽)、视频全屏
 **[ImageWatcher](https://github.com/iielse/ImageWatcher)**|仿微信大图查看
 **[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view)**|长图预览
