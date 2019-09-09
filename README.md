@@ -50,8 +50,7 @@
 |               [WebRTC基础学习](src/webrtc.md)                |                 开源webrtc基础资料                 |
 | [开源即时通讯(IM)系统](https://github.com/wildfirechat/server) | 野火IM是一套跨平台、核心功能开源的即时通讯解决方案 |
 | [starRTC，即时通讯(IM)系统](https://github.com/starrtc/starrtc-android-demo) |    免费IM系统（含单聊，群聊，聊天室，文件传输）    |
-
-
+| [ffmpeg库到android平台](https://github.com/byhook/ffmpeg4android) |    相机音频采集编码推流到RTMP服务器    |
 
 ### :bullettrain_side:JetBrains 全家桶激活（勿转发）
 
