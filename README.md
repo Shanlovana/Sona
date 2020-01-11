@@ -59,6 +59,7 @@
 | [提取地址](http://v.lsuu.cn/) | YZVR7WDLV8HHERJK |
 
 > 工欲善其事，必先利其器。本栏会提供持续的更新，利用javaagent进行注册激活，无需更改hosts。
+
 |            激活教程             |
 | :-----------------------------: |
 | [Jetbrains全家桶使用](https://www.jianshu.com/p/baf8ab340ed4) |
