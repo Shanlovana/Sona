@@ -12,7 +12,7 @@
 
 ### :lollipop:Android常用库收集 ###
 
->Android经典与常用库合集，包含各种UI控件与动画效果，意在指导开发，节省寻找方案或者控件时间，加快开发效率。
+>Android经典与常用库合集，包含各种UI控件与动画效果，意在指导开发，节省寻找方案或者控件时间，加快开发效率（你想要的，几乎全有）。
 
 | ​Android框架合集 |
 | :------: |
@@ -50,15 +50,15 @@
 | [ffmpeg库到android平台](https://github.com/byhook/ffmpeg4android) | [WebRTC基础学习](src/webrtc.md) | [开源IM框架](src/openimwebrtc.md) |
 |               相机音频采集编码推流到RTMP服务器               |       开源webrtc基础资料        |            免费IM系统             |
 
-### :bullettrain_side:JetBrains 全家桶激活（勿转发）
+### :bullettrain_side:JetBrains 全家桶激活
 
 > ~~工欲善其事，必先利其器。本栏会提供持续的激活码更新，自己用，不要大量转载，商业授权，不需要更新hosts。（已废）~~
 
-|         地址          |      提取码      |
+|       ~~地址~~        |      ~~提取码~~      |
 | :-------------------: | :--------------: |
-| [提取地址](http://v.lsuu.cn/) | YZVR7WDLV8HHERJK |
+| ~~[提取地址~~](http://v.lsuu.cn/) | ~~YZVR7WDLV8HHERJK~~ |
 
-> 工欲善其事，必先利其器。本栏会提供持续的更新，利用javaagent进行注册激活，无需更改hosts。(在用)
+> 工欲善其事，必先利其器。本栏会提供持续的更新，利用javaagent进行注册激活，无需更改hosts(2020.04.16更新最便捷激活方法)。
 
 |            激活教程             |
 | :-----------------------------: |

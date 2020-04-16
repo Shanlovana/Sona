@@ -104,44 +104,9 @@
 **[Android-SpinKit](https://github.com/ybq/Android-SpinKit)**|Android loading animations
 
 # UI组件
-名称|描述
-:-:|:-:
-**[FloatingView](https://github.com/UFreedom/FloatingView)**|点赞效果参考
-**[SuperTextView](https://github.com/lygttpod/SuperTextView)**|通过RelativeLayout组装的各种效果的TextView
-**[RandomTextView](https://github.com/AndroidMsky/RandomTextView)**|带滚动数字的TextView
-**[Highlight](https://github.com/hongyangAndroid/Highlight)**|高亮新手引导用法参考
-**[QMUI_Android](https://github.com/Tencent/QMUI_Android)**|腾讯推出的安卓UI库
-**[RoundedImageView](https://github.com/vinc3m1/RoundedImageView)**|图片圆角控件
-**[XUI](https://github.com/xuexiangjys/XUI)**|一个简洁而优雅的Android原生UI框架！图片圆角控件
-**[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)**|ui库，非常多的ui及特效。
-**[XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)**|带下拉刷新和上拉加载的
-**[SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**|几十种炫酷的下拉刷新
-**[SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout)**|任意View侧滑
-**[SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)**|通讯录、城市悬停分组索引列表
-**[PinnedHeaderExpandableListView](https://github.com/singwhatiwanna/PinnedHeaderExpandableListView)**|分组+展开+悬浮
-**[android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)**|分组+展开+侧滑的Recyclerview
-**[BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)**|侧滑返回Activity
-**[vlayout](https://github.com/alibaba/vlayout)**|阿里的多类型RecyclerView布局器
-**[PullZoomView](https://github.com/jeasonlzy/PullZoomView)**|下拉Header放大效果
-**[overscroll-decor](https://github.com/EverythingMe/overscroll-decor)**|边缘滑动阻尼效果
-**[Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout)**|带Header的ViewPager
-**[StickyHeaderViewPager](https://github.com/w446108264/StickyHeaderViewPager)**|带Header的ViewPager
-**[CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)**|ViewPager添加头部可滑动效果
-**[PageRecyclerView](https://github.com/ckrgithub/PageRecyclerView)**|RecyclerView实现无限轮播效果
-**[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)**|无限轮播 
-**[banner](https://github.com/youth5201314/banner)**|图片轮播控件
-**[SlimAdapter](https://github.com/MEiDIK/SlimAdapter)**|A slim & clean & typeable Adapter without VIEWHOLDER
-**[greedo-layout-for-android](https://github.com/500px/greedo-layout-for-android)**|Full aspect ratio grid LayoutManager for Android's RecyclerView
-**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果，酷酷的。
-**[EasySwipeMenuLayout](https://github.com/anzaizai/EasySwipeMenuLayout)**|Android之自定义View：侧滑删除
-**[SwipeMenuRecyclerView](https://github.com/AItsuki/SwipeMenuRecyclerView)**|SwipeMenuRecyclerView
-**[ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout)**|Memory efficient shimmering effect for Android applications by Supercharge
-**[ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView)**|类似 Facebook 加载时，条目的闪烁效果
-**[StickyDecoration](https://github.com/Gavin-ZYX/StickyDecoration)**|利用RecyclerView.ItemDecoration实现顶部悬浮效果
-[**Android_open_project**](https://github.com/linmomo/Android_open_project)|搜集平常工作中开源控件库
-[**AndroidLibs**](https://github.com/XXApple/AndroidLibs)|史上最全分类 Android 开源大全
-[**CainCamera**](https://github.com/CainKernel/CainCamera)|集美颜相机、图片编辑、短视频编辑等功能的综合性开源APP
-[**Orient-Ui**](https://github.com/mCyp/Orient-Ui)|工作中一些有趣的UI
+|                 名称                  |                描述                |
+| :-----------------------------------: | :--------------------------------: |
+| **[UI组件大全](src/alluiyouneed.md)** | **你能想到的和见到的UI组件这都有** |
 
 
 
