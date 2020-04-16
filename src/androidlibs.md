@@ -83,6 +83,13 @@
 **[ArmsComponent](https://github.com/JessYanCoding/ArmsComponent)**|MVPArms 官方快速组件化方案
 **[ARouter](https://github.com/alibaba/ARouter)**|组件化路由框架
 
+
+
+# UI组件大全
+|                   名称                   |                描述                |
+| :--------------------------------------: | :--------------------------------: |
+| **[UI组件大全](../src/alluiyouneed.md)** | **你能想到的和见到的UI组件这都有** |
+
 # UI适配方案
 名称|描述
 :-:|:-:
@@ -102,11 +109,6 @@
 **[AndroidCustomView](https://github.com/lygttpod/AndroidCustomView)**|带你走进自定义View的美妙世界
 **[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)**|Nice loading animations for Android
 **[Android-SpinKit](https://github.com/ybq/Android-SpinKit)**|Android loading animations
-
-# UI组件
-|                   名称                   |                描述                |
-| :--------------------------------------: | :--------------------------------: |
-| **[UI组件大全](../src/alluiyouneed.md)** | **你能想到的和见到的UI组件这都有** |
 
 
 
